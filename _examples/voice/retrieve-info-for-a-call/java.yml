@@ -2,11 +2,11 @@
 title: Java
 language: java
 code:
-    source: .repos/nexmo/nexmo-java-code-snippets/src/main/java/com/nexmo/quickstart/voice/RetrieveCallInfo.java
+    source: .repos/vonage/vonage-java-code-snippets/src/main/java/com/vonage/quickstart/voice/RetrieveCallInfo.java
     from_line: 40
     to_line: 40
 client:
-    source: .repos/nexmo/nexmo-java-code-snippets/src/main/java/com/nexmo/quickstart/voice/RetrieveCallInfo.java
+    source: .repos/vonage/vonage-java-code-snippets/src/main/java/com/vonage/quickstart/voice/RetrieveCallInfo.java
     from_line: 17
     to_line: 20
 run_command: java-ide
