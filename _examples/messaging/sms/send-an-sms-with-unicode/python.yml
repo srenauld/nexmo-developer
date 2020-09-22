@@ -4,11 +4,11 @@ language: python
 dependencies:
     - nexmo
 code:
-    source: .repos/nexmo/nexmo-python-code-snippets/sms/send-an-sms-with-unicode.py
+    source: .repos/vonage/vonage-python-code-snippets/sms/send-an-sms-with-unicode.py
     from_line: 17
     to_line: 27
 client:
-    source: .repos/nexmo/nexmo-python-code-snippets/sms/send-an-sms-with-unicode.py
+    source: .repos/vonage/vonage-python-code-snippets/sms/send-an-sms-with-unicode.py
     from_line: 13
     to_line: 15
 file_name: send-an-sms-with-unicode.py

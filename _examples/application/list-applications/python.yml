@@ -2,11 +2,11 @@
 title: Python
 language: python
 code:
-    source: .repos/nexmo/nexmo-python-code-snippets/application/list-applications.py
+    source: .repos/vonage/vonage-python-code-snippets/application/list-applications.py
     from_line: 10
     to_line: 12
 client:
-    source: .repos/nexmo/nexmo-python-code-snippets/application/list-applications.py
+    source: .repos/vonage/vonage-python-code-snippets/application/list-applications.py
     from_line: 5
     to_line: 8
 file_name: list-applications.py
