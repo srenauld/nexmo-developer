@@ -5,5 +5,5 @@ client:
     to_line: 40
 code:
     source: .repos/vonage/vonage-java-code-snippets/src/main/java/com/vonage/quickstart/verify/SearchVerification.java
-    from_line: 42
+    from_line: 41
     to_line: 50

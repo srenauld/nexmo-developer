@@ -3,12 +3,12 @@ title: Java
 language: java
 code:
     source: .repos/vonage/vonage-java-code-snippets/src/main/java/com/vonage/quickstart/voice/RetrieveCallInfo.java
-    from_line: 40
+    from_line:
     to_line: 40
 client:
     source: .repos/vonage/vonage-java-code-snippets/src/main/java/com/vonage/quickstart/voice/RetrieveCallInfo.java
-    from_line: 17
-    to_line: 20
+    from_line: 45
+    to_line: 60
 run_command: java-ide
 file_name: RetrieveCallInfo.java
 unindent: true

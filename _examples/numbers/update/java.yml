@@ -3,11 +3,11 @@ title: Java
 language: java
 client:
     source: .repos/vonage/vonage-java-code-snippets/src/main/java/com/vonage/quickstart/numbers/UpdateNumber.java
-    from_line: 46
-    to_line: 49
+    from_line: 45
+    to_line: 48
 code:
     source: .repos/vonage/vonage-java-code-snippets/src/main/java/com/vonage/quickstart/numbers/UpdateNumber.java
-    from_line: 51
+    from_line: 50
     to_line: 65
 file_name: UpdateNumber.java
 run_command: java-ide
