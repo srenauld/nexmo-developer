@@ -35,7 +35,7 @@ source: _tutorials_tabbed_content/client-sdk/guides/messaging/inviting-members/i
 In order to list all conversations available to a user, we need to make use of the various methods aimed at [pagination](/client-sdk/in-app-messaging/guides/handling-pagination), as the 
 conversations collection is paginated. A simple example to acquired this complete set as a list is available below:
 
-```tabbed_Content
+```tabbed_content
 source: _tutorials_tabbed_content/client-sdk/guides/messaging/inviting-members/listing
 ```
 
