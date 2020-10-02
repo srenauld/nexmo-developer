@@ -30,6 +30,14 @@ This guide will introduce you to the following concepts.
 source: _tutorials_tabbed_content/client-sdk/guides/messaging/inviting-members/invited
 ```
 
+## Listing conversations you are a part of
+
+In order to list all conversations available to a user, we need to make use of the various methods aimed at [pagination](/client-sdk/in-app-messaging/guides/handling-pagination), as the 
+conversations collection is paginated. A simple example to acquired this complete set as a list is available below:
+
+```tabbed_Content
+source: _tutorials_tabbed_content/client-sdk/guides/messaging/inviting-members/listing
+```
 
 ## Listening for members who joined a conversation
 ```tabbed_content
